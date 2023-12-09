@@ -1,6 +1,5 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RidoyMia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ridoy-miya-7903652a0//)  
-
-### Hi there 👋, My name is Ridoy mia
+<img height="400px" width="1200px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img>
+### Hi there , My name is Ridoy mia
 #### I am MERN stack developer
 ![I am MERN stack developer](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
