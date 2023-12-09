@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ridoy Mia</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
-<img height="400px" width="400px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img>
+<img height="400px" width="1600px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img>
 - 🔭 I’m currently working on **Next.js**
 
 - 🌱 I’m currently learning **Next.js, Prisma,PostgreSql**
