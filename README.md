@@ -1,7 +1,6 @@
-(https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ### Hi there 👋, My name is Ridoy mia
 #### I am MERN stack developer
-![I am MERN stack developer]
+![I am MERN stack developer](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 Hello, I am Ridoy mia and I am a web developer . I am studing in Habiganj polytechnic institute at Computer science and technology.
 
